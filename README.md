@@ -27,10 +27,6 @@ of data-driven insights in HR strategy
 The insights derived from this project
 nave contributed to the creation of a more positive
 workplace, resulting in reduced attrition rates.
-#### Data Integration: 
-To provide a comprehensive view of
-sales, the project also involves integrating data from various
-sources, ensuring data consistency and accuracy
 ### Key Achievements:
 1) Designing interactive and insightful Power BI report
 dashboards.
