@@ -7,8 +7,8 @@ decisions.
 ### Tools Used : 
 * Microsoft Excel
 * Microsoft Power BI
-### Key Objectives:
-Attrition Insights: Through in-depth analysis, I identifiec
+#### Attrition Insights:
+Through in-depth analysis, I identifiec
 key factors contributing to attrition, allowing the HR team to
 implement targeted retention strategies.
 #### Data Visualization: 
